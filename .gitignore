@@ -45,6 +45,7 @@ local.properties
 *.ipr
 *.iws
 .idea/
+atlassian-ide-plugin.xml
 
 # Output folder generated from IntelliJ #
 out/**
